@@ -1,40 +1,14 @@
 {
-    "id": "1",
-    "name": "The Gourmet Corner",
-    "cuisine": "Italian",
-    "address": "123 Pasta Lane, Flavor Town",
-    "contact": "+1 555-1234",
-    "location": {
-      "latitude": 40.7128,
-      "longitude": -74.0060
-    },
-    "rating": 4.5,
-    "images": [
-      "/images/The Gourmet Corner/Dishes/pizza.webp",
-    ],
-    "menu": [
+    "posts": [
       {
-        "id": "101",
-        "name": "Margherita Pizza",
-        "price": 999,
-        "description": "Classic Margherita pizza with fresh basil and mozzarella.",
-        "ingredients": ["Tomato Sauce", "Mozzarella Cheese", "Basil"],
-        "images": [
-          "https://www.southernliving.com/thmb/j_6gABRIAMegN6RFHxOgbUqBxjA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2652401_QFSSL_SupremePizza_00072-d910a935ba7d448e8c7545a963ed7101.jpg",
-          "/images/margherita-pizza-2.jpg"
-        ]
+        "id": 1,
+        "title": "First Post",
+        "content": "This is the first post."
       },
       {
-        "id": "102",
-        "name": "Spaghetti Carbonara",
-        "price": 1199,
-        "description": "Creamy carbonara pasta with pancetta and parmesan.",
-        "ingredients": ["Spaghetti", "Pancetta", "Eggs", "Parmesan Cheese", "Black Pepper"],
-        "images": [
-          "/images/spaghetti-carbonara-1.jpg",
-          "/images/spaghetti-carbonara-2.jpg"
-        ]
+        "id": 2,
+        "title": "Second Post",
+        "content": "This is the second post."
       }
     ]
   }
-  
